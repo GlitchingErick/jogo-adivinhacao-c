@@ -1,3 +1,14 @@
+/*
+Name: jogo-adivinhacao
+Author: Erick da Silva Gama
+Date: 31/03/2026
+Description: Mini-jogo de adivinhaçaõ com números aleatórios de 1 - 100
+Programming language: C
+Versão: 1.0
+Objetivo: Prática básica em DS. O uso pode ser conveniente :)
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
